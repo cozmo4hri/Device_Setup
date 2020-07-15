@@ -8,4 +8,4 @@ It also gives how we went about how we backed up the logs and prepared the devic
 The experiment was conducted with Cozmo Ap version 1.5. The .apk and .obb files for the same can be found here:
 https://www.dropbox.com/sh/l8nkx91od4w9skz/AAAHRkqDGtRK8vnv73yuWSHNa?dl=0
 
-The SaveData.json* files have been included to show the start point we used for all participants
+The SaveData.json* files have been included to show the start point we used for all participants.
